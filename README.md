@@ -1,5 +1,7 @@
 # Software-Defined-Radio-Project
+
 Project by Sarabeth Canaday and Eric Walsh
+
 Walla Walla University ENGR357
 
 Milestone 3: Completion of the initial schematic
